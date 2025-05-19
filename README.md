@@ -18,45 +18,72 @@ The manual testing process covered various aspects of the SecureBank platform, f
 - **Usability Testing:** Ensuring an intuitive and user-friendly experience.
 - **Cross-Browser Testing:** Validating compatibility across multiple browsers.
 
- 
-## The scope of the project includes testing the following features of 
-‘https://demo.opencart.com/’ web application. 
- 
-Inclusions  
-• Register  
-• Login & Logout  
-• Forgot Password  
-• Search  
-• Product Compare  
-• Product Display Page  
-• Add to Cart  
-• Wish List  
-• Shopping Cart  
-• Currencies  
-• Home Page  
-• Checkout Page  
-• My Account Page  
-• Order History Page  
-• Downloads Page  
-• Contact Us Page  
-• Menu Options  
-• Footer Options  
-• Category Pages 
- 
- 
-From our understanding, we believe above functional areas need to be Tested. 
- 
-Test Environments  
-• Windows 11 – Chrome, Firefox and Edge  
-• Mac OS – Safari Browser  
-• Android Mobile OS – Chrome  
-• iPhone Mobile OS - Safari 
- 
-Exclusions  
-• All the features except that are mentioned under ‘Inclusions’  
-• Any third-party features or Payment gateways  
-• Test Automation 
-
 ## Testing Activities Performed
 
+### Test Plan Creation
 
+Google Drive Link: https://drive.google.com/drive/u/5/folders/1La2uSeB1GD7qiWgzws2YrNWUeZ08Z5jJ
+
+- Developed a structured **test plan** outlining:
+  - Testing objectives
+  - Scope
+  - Test items
+  - Features to be tested
+  - Features not to be tested
+  - Test Environment
+  - Schedule
+
+  
+### Test Scenarios
+ XL Sheet Google Drive Link: https://drive.google.com/drive/u/5/folders/1R83Dq2FEq1IMbD3Zi_DcMxWOqfDEeJrl
+
+- Defined multiple **test scenarios** to validate:
+  - Critical functionalities
+  - Edge cases
+  - Boundary Value testing
+  - Negative testing
+
+### Test Case Writing #
+
+XL Sheet Google Drive Link: https://drive.google.com/drive/u/5/folders/163v-SVNG1-RITB3uzzNoY7Rt8Twsin8X
+
+- Created detailed test cases covering various modules of the **openCart** application.
+
+
+### Requirements Traceability Matrix – RTM
+ 
+XL Sheet Google Drive Link: https://drive.google.com/drive/u/5/folders/1eMDBtgETwTAcaH-EV0m0MDnsoRhcPX6e
+
+- Collected and analyzed **RTM** to assess:
+  - Test coverage
+  - Test execution progress
+
+
+### Bug Reports
+
+XL Sheet Google Drive Link: https://drive.google.com/drive/u/5/folders/14HnUC2o9uWG_6glB4aKdSPbon_N7OENd
+
+- Documented identified **defects** with:
+  - Severity
+  - Priority
+  - Steps to reproduce
+  - For efficient tracking and resolution
+
+
+### Tools Used
+- Test Management Tool: Excel Sheets / Google Sheets
+- XAMMP
+
+
+### Key Outcomes
+- Identified and reported critical bugs affecting functionality and security.
+- Achieved comprehensive test coverage through detailed test cases and scenarios.
+- Ensured the platform's compatibility across various browsers and devices.
+
+
+## Conclusion
+This manual testing project for openCart has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, test summary report, test metrics, and bug reports, has been prepared to assist in continuous quality improvement.
+
+## Test Report Summary
+
+XL Sheet Google Drive Link: https://drive.google.com/drive/u/5/folders/1bSBwNgQJjOzJgLyGyLL4JnfGw_C_yGn9
